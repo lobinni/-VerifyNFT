@@ -6,10 +6,10 @@
 
 | | |
 |---|---|
-| **Address** | `0x87Fcb84379Ce2c7e4798A4A0787cf019Ae36B715` |
+| **Address** | `0x8853D0bC9385eA640dE70c87FeaF544676678FB1` |
 | **Network** | GenLayer Studio |
-| **Explorer** | [explorer-studio.genlayer.com](https://explorer-studio.genlayer.com/address/0x87Fcb84379Ce2c7e4798A4A0787cf019Ae36B715) |
-| **Deploy TX** | [0x6ab87f…](https://explorer-studio.genlayer.com/tx/0x6ab87f492c15d18d4463b00f878e9009774beaf02b4d99a9c71042c1ab8e0c40) |
+| **Explorer** | [explorer-studio.genlayer.com](https://explorer-studio.genlayer.com/address/0x8853D0bC9385eA640dE70c87FeaF544676678FB1) |
+| **Deploy TX** | [0x6ab87f…](https://explorer-studio.genlayer.com/tx/0xf5bd2755d2c07919e63545b701aa2c241d397948f8c99b33a716a39b298b7769) |
 
 ---
 
