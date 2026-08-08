@@ -1,0 +1,15 @@
+[project]
+name = "nft-authenticator"
+version = "2.0.0"
+description = "On-chain NFT authenticity verification — GenLayer Intelligent Contract with independent validator provenance acquisition and comparative evidence checking"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+keywords = ["genlayer", "nft", "authenticity", "blockchain", "intelligent-contract"]
+
+[project.urls]
+Explorer = "https://explorer-studio.genlayer.com/address/0x87Fcb84379Ce2c7e4798A4A0787cf019Ae36B715"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
